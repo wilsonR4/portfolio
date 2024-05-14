@@ -1,0 +1,23 @@
+
+.contact{
+
+    &-redes{
+        display: flex;
+        flex-direction: column;
+        &-span{
+            font-size: 20px;
+            font-weight: 400;
+            font-style: normal;
+            color: #414141;
+            span{
+                font-size: 15px;
+                margin-left: .5em;
+                color: #686868;
+                font-family: "Freeman", sans-serif;
+                &:hover{
+                    color: #a455ff;
+                }
+            }
+        }
+    }
+}

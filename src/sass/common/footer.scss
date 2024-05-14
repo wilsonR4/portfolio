@@ -1,0 +1,16 @@
+footer{
+    h5,p{font-family: "Freeman", sans-serif;}
+    ul{
+        list-style: none;
+        li{margin: 0 .5em; a{color: #000000; font-family: "Poetsen One", sans-serif;}}
+    }
+    .iconContacts{
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        padding: 0;
+        margin-bottom:.5em;
+        font-size: 25px;
+        a{color:#292929; margin: 0 .15em;}
+    }
+}
