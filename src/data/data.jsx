@@ -20,12 +20,6 @@ const Data = {
                 link:"https://api-consumption.onrender.com"
             },
             {
-                icon: <FaReact style={{color:"#00e1ff"}}/>,
-                title:"Send form",
-                description:"Send Form. allows you to send emails, through Nodemailer. You can attach images, videos, documents, etc.",
-                link:"https://frontend-ww2q.onrender.com"
-            },
-            {
                 icon: <FaNode style={{color:"#6ce000"}}/>,
                 title:"Notes",
                 description:"CRUD notes app, react was used for the frontend, nodejs for the backend, and the firebase service as a database.",
@@ -41,12 +35,6 @@ const Data = {
             link:"https://api-consumption.onrender.com"
         },
         {
-            icon: <FaReact style={{color:"#00e1ff"}}/>,
-            title:"Send form",
-            description:"Send Form. allows you to send emails, through Nodemailer. You can attach images, videos, documents, etc.",
-            link:"https://frontend-ww2q.onrender.com"
-        },
-        {
             icon: <FaNode style={{color:"#6ce000"}}/>,
             title:"Notes",
             description:"CRUD notes app, react was used for the frontend, nodejs for the backend, and the firebase service as a database.",
@@ -60,7 +48,7 @@ const Data = {
     NotFound:{},
     redes:{
         linkedin:"https://www.linkedin.com/in/wilson-rivero-275963243",
-        instagram:"",
+        instagram:"https://www.instagram.com/wilson100_oficial",
         envelope:"w1lson4li3s@gmail.com"
     }
 };
